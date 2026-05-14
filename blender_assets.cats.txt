@@ -6,7 +6,11 @@
 
 VERSION 1
 
+32f1d4e6-bf13-4d45-afbc-2fa9a36f2178:BlendCut - Aesthetics:BlendCut - Aesthetics
 4d346c3d-a5be-4642-8d38-065d68a449bc:BlendCut - Automatic Loops:BlendCut - Automatic Loops
 8c311f67-eb1d-4afe-9739-0e961f713c2c:BlendCut - Compositor Modifier Presets:BlendCut - Compositor Modifier Presets
+079a014b-feba-413e-bf6a-353734887226:BlendCut - Cuttable Strip Modifiers:BlendCut - Cuttable Strip Modifiers
+b7cdbccc-d454-47f6-922d-e992e29f2378:BlendCut - Demonstrations:BlendCut - Demonstrations
 ec09e7a1-013a-4529-a281-482f1b4f03da:BlendCut - Distortion:BlendCut - Distortion
 ab4f4d3b-4032-4457-ae8c-c5c28c7c15c4:BlendCut - One Knob Distortion:BlendCut - One Knob Distortion
+bcbb0743-0c7d-475b-a288-231f005ae562:BlendCut - Useful:BlendCut - Useful
