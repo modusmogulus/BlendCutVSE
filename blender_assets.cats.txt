@@ -12,5 +12,6 @@ VERSION 1
 079a014b-feba-413e-bf6a-353734887226:BlendCut - Cuttable Strip Modifiers:BlendCut - Cuttable Strip Modifiers
 b7cdbccc-d454-47f6-922d-e992e29f2378:BlendCut - Demonstrations:BlendCut - Demonstrations
 ec09e7a1-013a-4529-a281-482f1b4f03da:BlendCut - Distortion:BlendCut - Distortion
+73a4498a-22b4-491f-a120-389bd1fdd281:BlendCut - Lens Flares:BlendCut - Lens Flares
 ab4f4d3b-4032-4457-ae8c-c5c28c7c15c4:BlendCut - One Knob Distortion:BlendCut - One Knob Distortion
 bcbb0743-0c7d-475b-a288-231f005ae562:BlendCut - Useful:BlendCut - Useful
